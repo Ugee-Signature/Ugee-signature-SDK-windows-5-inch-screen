@@ -1,0 +1,17 @@
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\bin\Release\UG05Demo.exe
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\bin\Release\UG05Demo.pdb
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.FrmMain.resources
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.Properties.Resources.resources
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.csproj.GenerateResource.Cache
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.exe
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.pdb
+E:\work\打包项目\行业\UG05系列\ug05dll\UG05Demo\obj\Release\UG05Demo.csprojResolveAssemblyReference.cache
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\new\UG05Demo\obj\Release\UG05Demo.exe
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\new\UG05Demo\obj\Release\UG05Demo.pdb
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\bin\Release\UG05Demo.exe
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\bin\Release\UG05Demo.pdb
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\obj\Release\UG05Demo.FrmMain.resources
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\obj\Release\UG05Demo.Properties.Resources.resources
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\obj\Release\UG05Demo.csproj.GenerateResource.Cache
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\obj\Release\UG05Demo.exe
+G:\行业产品相关文档new\产品相关文档\SDK集合\新ug05\ug0502-带指纹demo\UG05Demo\obj\Release\UG05Demo.pdb
